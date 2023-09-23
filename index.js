@@ -1,11 +1,6 @@
 // Code your solution in this file!
 const companyName = 'Scuber';
 
-function calculateprofit(mostProfitableNeighborhood) {
-    return chelsea;
-}
+let mostProfitableNeighborhood = "Chelsea";
 
-function getcompanyCeo(){
-    return "Susan Smith";
-}
-
+let companyCeo = "Susan Smith";
